@@ -85,6 +85,6 @@ This analysis highlights key patterns in traffic accident data, such as high acc
 For any inquiries or feedback regarding this project, please contact:
 
 - <a href="https://www.linkedin.com/in/aadith-m-639086268/">Aadith M (LinkedIn)</a>
-- Email: adith777@gmail.com
+- Email: adithmanoj777@gmail.com
 
 
